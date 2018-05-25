@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote  name="idkmang"
+           fetch="https://github.com/idkmang/" />
+<project path="device/lge/cv1" name="android_device_lge_cv1" remote="idkmang" revision="master" />
+<project path="device/lge/common" name="android_device_lge_common" remote="idkmang" revision="master" />
+<project path="vendor/lge/cv1" name="android_vendor_lge_cv1" remote="idkmang" revision="master" />
+<project path="kernel/lge/msm8937" name="android_kernel_lge_msm8937" remote="idkmang" revision="master" />
+
+</manifest>
